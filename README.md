@@ -31,5 +31,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 - Thanks to the creators of the Huffman coding algorithm and the developers of Python for making this project possible.
 
 ---
-
-Feel free to customize this README to better fit your project's specifics.
